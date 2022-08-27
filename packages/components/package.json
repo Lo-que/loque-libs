@@ -1,7 +1,7 @@
 {
   "name": "@loque/components",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.ts",
   "scripts": {},
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@loque/hooks": "^1.0.0"
+    "@loque/hooks": "^1.0.1"
   }
 }
