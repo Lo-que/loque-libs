@@ -1,0 +1,12 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "homebrew/services"
+brew "ca-certificates"
+brew "git"
+brew "node", link: false
+brew "pyenv"
+cask "discord"
+cask "drawio"
+cask "fig"
+cask "omnigraffle"

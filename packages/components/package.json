@@ -1,0 +1,14 @@
+{
+  "name": "@loque/components",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@loque/hooks": "^1.0.0"
+  }
+}
