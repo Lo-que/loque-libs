@@ -1,3 +1,1 @@
-import hook from '@loque/hooks'
-
-console.log(hook)
+export { default as Select } from './stories/Select'

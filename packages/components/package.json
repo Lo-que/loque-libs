@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@loque/hooks": "^1.0.1"
+    "@headlessui/react": "^1.6.6",
+    "@heroicons/react": "v1",
+    "@loque/hooks": "^1.0.1",
+    "msw": "^0.45.0",
+    "react": "link:@types/heroicons/react"
   }
 }
